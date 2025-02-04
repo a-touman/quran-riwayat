@@ -40,7 +40,7 @@
 
 |          ![1.jpg](https://github.com/a-touman/quran-riwayat/blob/master/preview/1.jpg)      |          ![2.jpg](https://github.com/a-touman/quran-riwayat/blob/master/preview/2.jpg)      |          ![3.jpg](https://github.com/a-touman/quran-riwayat/blob/master/preview/3.jpg)      |     ![4.jpg](https://github.com/a-touman/quran-riwayat/blob/master/preview/4.jpg)          |
 |---------------|---------------|---------------|---------------|
-|               |               |               |               |
+
 
 
 
